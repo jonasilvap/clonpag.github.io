@@ -1,0 +1,10 @@
+@media (max-width: 1033px) {
+    body{
+        width: 100%
+    }
+    .botones{
+        place-items: none;
+    }
+    
+    
+}
